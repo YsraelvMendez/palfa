@@ -157,7 +157,6 @@
                      </div>             
                  </div>
               <br><br><br><br>
-            <!-- Footer -->
             <div id="foter">
                     <p>
                     <a alt="twitter" href="https://twitter.com/curiasport">
