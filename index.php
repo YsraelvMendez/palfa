@@ -135,7 +135,7 @@
                      <div class="col-md-6">
                         <div id="texto1">
                             <h3>EL FUTURO DE CURIA</h3><br>        
-                            <h5 style="text-align: justify">CuriaSport nace como un sistema de reservas de canchas online, que espera convertirse en 
+                            <h5 style="text-align: justify">CuriaSport nace como un e, que espera convertirse en 
                                 una red social para todos los deportistas que se registren, donde se llevarán a cabo estadísticas, partidos, eventos, 
                                 conteo de victorias por equipo, goleador del torneo, y mucho mas... Leer más <a href="/about">Leer más</a></h5>                          
                                    <img class="pequeña" src="imagenes/pensar_nube3.png" alt="Flower">                                                                                
