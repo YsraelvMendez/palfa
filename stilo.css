@@ -1,0 +1,101 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 04/04/2016, 06:04:58 PM
+    Author     : developer2
+*/
+body{
+    background-color: #f0f0f0;
+}
+
+#d{
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+#borde{
+border-radius: 0% 0% 0% 0;
+-moz-border-radius: 0% 0% 0% 0%;
+-webkit-border-radius: 0% 0% 0% 0%;
+border: 10px solid #f9faf5;
+padding: 3% 0% 0% 5%;
+background-color: #a3a0a3;
+}
+
+#texto1{
+    margin-right: 10%;
+}
+
+#cancha{
+    margin-top: -30%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    float: right;
+        
+}
+
+#boton_enviar{
+    margin-top: 0%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+img.pequeña{
+  width: 20%; 
+  height:20%;
+}
+img.mediana{
+  width: 80%; 
+  height: 80%;
+}
+#ubi_pensar{
+    margin-top: 25%;
+    margin-right: 20%;
+    margin-left: -50%;
+   
+}
+img.pie{
+  width: 5%; 
+  height: 5%;
+}
+#foter{
+  text-align: center;
+}
+#margen_session{
+
+    border-radius: 47px 10px 50px 10px;
+    -moz-border-radius: 47px 10px 50px 10px;
+    -webkit-border-radius: 47px 10px 50px 10px;
+    border: 7px solid #ffffff;
+    padding: 10% 10% 5% 10%;
+    background-color: #BFBFBF;      
+}
+#caja_face{
+    margin-top: -10%;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 0px 0px 0px 0px;
+    -moz-border-radius: 0px 0px 0px 0px;
+    -webkit-border-radius: 0px 0px 0px 0px;
+    border: 0px solid #ffffff;
+    padding: 2% 5% 2% 5%;
+    background-color: #4e5aa6;            
+}
+#caja_gmail{
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 0px 0px 0px 0px;
+    -moz-border-radius: 0px 0px 0px 0px;
+    -webkit-border-radius: 0px 0px 0px 0px;
+    border: 0px solid #ffffff;
+    padding: 2% 0% 2% 5%;
+    background-color: #ffffff;  
+}
+
+#saltar{
+    margin-top: 10%; 
+    float: right;
+}
