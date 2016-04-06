@@ -117,32 +117,7 @@
                       </div>
                      <div class="col-md-6">
                          <div id="borde">
-                                                             
-                             <h3> ALQUILA TU CANCHA </h3>
-                              sin salir de tu casa o del trabajo<br>
-                              ... cómodo, rápido y fácil<br><br>  
-                              <div id="boton_enviar">  
-                                 <a class="btn btn-primary span1" id="registrarse" data-target="#curia_registration" data-toggle="modal" href="/publicUsuario/createModal">Reserva</a> 
-                               </div>
-                               <div id="cancha">
-                                  <img src="imagenes/curia_cancha_vectorial.png" alt="Flower">  
-                               </div>
-                        </div> 
-                     </div>    
-                 </div>
-            <!--segmento 4 -->       
-                <div class="row-fluid">
-                     <div class="col-md-6">
-                        <div id="texto1">
-                            <h3>EL FUTURO DE CURIA</h3><br>        
-                            <h5 style="text-align: justify">CuriaSport nace como un e, que espera convertirse en 
-                                una red social para todos los deportistas que se registren, donde se llevarán a cabo estadísticas, partidos, eventos, 
-                                conteo de victorias por equipo, goleador del torneo, y mucho mas... Leer más <a href="/about">Leer más</a></h5>                          
-                                   <img class="pequeña" src="imagenes/pensar_nube3.png" alt="Flower">                                                                                
-                                   <div id="saltar">
-                                        <h4> REGISTRA TU CENTRO</h4>                            
-                                         <h5 style="text-align: justify">Contáctenos y Descubra todo lo que puede ganar <br>
-                                          registrando su centro Aquí</h5>
+                                         
                                     </div>
                         </div><br><br>                        
                          
