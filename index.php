@@ -134,7 +134,11 @@
                 <div class="row-fluid">
                      <div class="col-md-6">
                         <div id="texto1">
+<<<<<<< HEAD
                             <h3>EL FUTURO DE CURIA</h3><br>        
+=======
+                            <h3>EL FUTURO DE CURIA</h3><br>   
+>>>>>>> master
                             <h5 style="text-align: justify">CuriaSport nace como un sistema de reservas de canchas online, que espera convertirse en 
                                 una red social para todos los deportistas que se registren, donde se llevarán a cabo estadísticas, partidos, eventos, 
                                 conteo de victorias por equipo, goleador del torneo, y mucho mas... Leer más <a href="/about">Leer más</a></h5>                          
@@ -157,7 +161,6 @@
                      </div>             
                  </div>
               <br><br><br><br>
-            <!-- Footer -->
             <div id="foter">
                     <p>
                     <a alt="twitter" href="https://twitter.com/curiasport">
